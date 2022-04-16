@@ -1,0 +1,5 @@
+open 127.0.0.1 7000
+user ag
+pass 0
+cd abc
+lcd abc

@@ -1,0 +1,2 @@
+gcc dnsserver.c -o dnsserver && gcc dnsclient.c -o dnsclient
+
